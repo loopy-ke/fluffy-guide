@@ -1,6 +1,7 @@
 # fluffy-guide
 captured fluffy simulation data
-can be used in prediction and stuff
+
+can be used in match prediction and stuff
 
 
 This data is captured semi-automatically, some matches might be missing, while i will always try to capture the entire stream i can't guarantee you that.
