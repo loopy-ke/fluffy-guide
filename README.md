@@ -10,7 +10,7 @@ This data is captured semi-automatically, some matches might be missing, while i
 
 The scripts used to dump the data are closed but i will document the technology when i get the time.
 
-# Data format
+#Data format
 
 The data dump is organised in league seasons each is identified by a unique number, normally the directory name. Inside each season directory there are sub directories each number 01-38 to represent the week of the matches in the season.
 
@@ -66,6 +66,7 @@ Each file looks like this
 Remember teamA is the home team while teamB is the away team.
 
 #Payload details
+
 eventID should be unique for each match, last two characters represent the week while the preceding ones represent the season id. 
 
 teams participating
